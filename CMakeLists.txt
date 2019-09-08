@@ -1,0 +1,118 @@
+cmake_minimum_required(VERSION 3.12)
+project(pa6_heyCarlH_master)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+include_directories(apps)
+include_directories(cmake-build-debug)
+include_directories(expected)
+include_directories(include)
+include_directories(src)
+
+add_executable(pa6_heyCarlH_master
+        apps/bench.cpp
+        apps/bench.h
+        apps/bench_recs.cpp
+        apps/bounce.cpp
+        apps/cartman.475
+        apps/draw.cpp
+        apps/draw_cubic.cpp
+        apps/draw_mesh.cpp
+        apps/draw_oval.cpp
+        apps/draw_path.cpp
+        apps/draw_quad.cpp
+        apps/GProxyCanvas.h
+        apps/GRandom.h
+        apps/GTime.cpp
+        apps/GWindow.cpp
+        apps/GWindow.h
+        apps/image.cpp
+        apps/image.h
+        apps/image_pa1.cpp
+        apps/image_pa2.cpp
+        apps/image_pa3.cpp
+        apps/image_pa4.cpp
+        apps/image_pa5.cpp
+        apps/image_pa6.cpp
+        apps/image_recs.cpp
+        apps/lion.inc
+        apps/oldwell.png
+        apps/paint.cpp
+        apps/spock.png
+        apps/tests.cpp
+        apps/tests.h
+        apps/tests_pa3.cpp
+        apps/tests_pa4.cpp
+        apps/tests_pa5.cpp
+        apps/tests_recs.cpp
+        apps/viewer.cpp
+        cmake-build-debug/cmake_install.cmake
+        cmake-build-debug/CMakeCache.txt
+        cmake-build-debug/Makefile
+        cmake-build-debug/pa6_heyCarlH_master.cbp
+        expected/bitmap_hole.png
+        expected/bitmap_tiling.png
+        expected/blend_black.png
+        expected/blendmodes.png
+        expected/blendmodes2.png
+        expected/both_mesh.png
+        expected/cartman.png
+        expected/checkers.png
+        expected/circles.png
+        expected/color_clock.png
+        expected/color_quad.png
+        expected/cubic_fan.png
+        expected/divided.png
+        expected/filter_blendmodes.png
+        expected/filter_paint.png
+        expected/grad.png
+        expected/gradient_blendmodes.png
+        expected/hole.png
+        expected/lion.png
+        expected/lion_head.png
+        expected/path_graphs.png
+        expected/plus.png
+        expected/poly.png
+        expected/poly_center.png
+        expected/poly_vstrip.png
+        expected/quad_clock.png
+        expected/rect_graphs.png
+        expected/red_blue.png
+        expected/rings.png
+        expected/solid_ramp.png
+        expected/spock_clock.png
+        expected/spock_quad.png
+        expected/stars.png
+        expected/sweep_mesh.png
+        expected/tri_color.png
+        expected/tri_texture.png
+        include/GBitmap.h
+        include/GBlendMode.h
+        include/GCanvas.h
+        include/GColor.h
+        include/GMath.h
+        include/GMatrix.h
+        include/GPaint.h
+        include/GPath.h
+        include/GPixel.h
+        include/GPoint.h
+        include/GRect.h
+        include/GShader.h
+        include/GTime.h
+        include/GTypes.h
+        src/GBitmap.cpp
+        src/GBitmap_lode.cpp
+        src/GPath.cpp
+        src/lodepng.cpp
+        src/lodepng.h
+        src/utils.cpp
+        CMakeLists.txt
+        Edges.h
+        GMatrix.cpp
+        GPath.cpp
+        Makefile
+        MyBitmapShader.cpp
+        MyCanvas.cpp
+        MyLinearGradientShader.cpp
+        ProxyShader.cpp ComposeShader.cpp TriColorShader.cpp)

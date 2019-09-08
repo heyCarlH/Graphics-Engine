@@ -1,0 +1,3 @@
+/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/CMakeFiles/pa6_heyCarlH_master.dir

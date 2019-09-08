@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pa6_heyCarlH_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pa6_heyCarlH_master">
+				<Option output="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/pa6_heyCarlH_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/."/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps"/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug"/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected"/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include"/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 pa6_heyCarlH_master"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pa6_heyCarlH_master/fast">
+				<Option output="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/pa6_heyCarlH_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/."/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps"/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug"/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected"/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include"/>
+					<Add directory="/Users/sakaiki/Downloads/pa6-heyCarlH-master/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 pa6_heyCarlH_master/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/CMakeLists.txt">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/ComposeShader.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/Edges.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/GMatrix.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/GPath.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/Makefile">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/MyBitmapShader.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/MyCanvas.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/MyLinearGradientShader.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/ProxyShader.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/TriColorShader.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/GProxyCanvas.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/GRandom.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/GTime.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/GWindow.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/GWindow.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/bench.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/bench.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/bench_recs.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/bounce.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/cartman.475">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/draw.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/draw_cubic.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/draw_mesh.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/draw_oval.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/draw_path.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/draw_quad.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/image.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/image.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/image_pa1.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/image_pa2.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/image_pa3.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/image_pa4.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/image_pa5.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/image_pa6.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/image_recs.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/lion.inc">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/oldwell.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/paint.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/spock.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/tests.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/tests.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/tests_pa3.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/tests_pa4.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/tests_pa5.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/tests_recs.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/apps/viewer.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/CMakeCache.txt">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/Makefile">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/cmake_install.cmake">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/cmake-build-debug/pa6_heyCarlH_master.cbp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/bitmap_hole.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/bitmap_tiling.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/blend_black.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/blendmodes.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/blendmodes2.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/both_mesh.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/cartman.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/checkers.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/circles.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/color_clock.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/color_quad.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/cubic_fan.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/divided.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/filter_blendmodes.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/filter_paint.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/grad.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/gradient_blendmodes.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/hole.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/lion.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/lion_head.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/path_graphs.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/plus.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/poly.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/poly_center.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/poly_vstrip.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/quad_clock.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/rect_graphs.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/red_blue.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/rings.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/solid_ramp.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/spock_clock.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/spock_quad.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/stars.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/sweep_mesh.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/tri_color.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/expected/tri_texture.png">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GBitmap.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GBlendMode.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GCanvas.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GColor.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GMath.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GMatrix.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GPaint.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GPath.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GPixel.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GPoint.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GRect.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GShader.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GTime.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/include/GTypes.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/src/GBitmap.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/src/GBitmap_lode.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/src/GPath.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/src/lodepng.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/src/lodepng.h">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/src/utils.cpp">
+			<Option target="pa6_heyCarlH_master"/>
+		</Unit>
+		<Unit filename="/Users/sakaiki/Downloads/pa6-heyCarlH-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
